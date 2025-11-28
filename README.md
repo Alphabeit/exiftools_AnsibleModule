@@ -1,4 +1,4 @@
-# exiftool-x-ansible
+# exiftool X ansible
 
 Ansible Role to overwrite the metadata of photos with ```exiftool```. 
 
